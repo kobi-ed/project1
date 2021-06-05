@@ -2,6 +2,7 @@
 # Date June 5, 2021
 # Author : kobi-ed
 
+#!/usr/bin/env python3
 import os
 
 def getCurrentDirectory():
